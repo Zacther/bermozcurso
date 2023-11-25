@@ -1,0 +1,36 @@
+
+header
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ padding: 12px;
+background-color: black;
+border-radius: 5px;
+   margin-bottom: 15px;
+} 
+#m1 { background-color: white;
+    color: black;
+    
+width: 240px;}
+.boton{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 15px;
+    margin:     0px;
+    padding: 8px;
+    background-color: black;
+    color: white;
+    position:-ms-page;
+    }
+
+.boton:hover{color: rgb(21, 101, 141); background-color: white;
+padding: 8px;}
+
+nav{
+   
+}
+
+#mat {width: 70px;
+    border-radius: 100px;
+    position: absolute;
+    top: 25px;
+    left: 250px
+}
